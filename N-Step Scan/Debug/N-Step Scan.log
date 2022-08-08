@@ -1,0 +1,4 @@
+﻿  N-Step Scan.cpp
+C:\Users\HP\source\repos\N-Step Scan\N-Step Scan\N-Step Scan.cpp(64,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\HP\source\repos\N-Step Scan\N-Step Scan\N-Step Scan.cpp(68,35): warning C4018: '<': signed/unsigned mismatch
+  N-Step Scan.vcxproj -> C:\Users\HP\source\repos\N-Step Scan\Debug\N-Step Scan.exe
